@@ -27,4 +27,4 @@ A responsive React application that tracks real-time cryptocurrency prices, simu
 
 ## Video Link
 
-- [Visit the website](https://drive.google.com/file/d/19RSVpWOrpLIXdOXiUtEFOU_5g9zQ3sc0/view?usp=sharing)
+- [See Video](https://drive.google.com/file/d/19RSVpWOrpLIXdOXiUtEFOU_5g9zQ3sc0/view?usp=sharing)
