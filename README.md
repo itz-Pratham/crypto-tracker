@@ -25,4 +25,6 @@ A responsive React application that tracks real-time cryptocurrency prices, simu
 3. Run the development server: `npm start`
 4. Build for production: `npm run build`
 
-## Project Structure
+## Video Link
+
+- `https://drive.google.com/file/d/19RSVpWOrpLIXdOXiUtEFOU_5g9zQ3sc0/view?usp=sharing`
